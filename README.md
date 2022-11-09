@@ -118,6 +118,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Belka](http://belka.us/lavora-con-no) | Trento, Italy; Munich, Germany | We give you a small task that you can do alone and then we evaluate your work with you
 - [Bemind Interactive](https://bemind.recruitee.com) | Biella, Italy / Latina, Italy / Remote | Series of interviews, discussion about technical background and past experiences, take-home project & pair programming
 - [Bendyworks](https://bendyworks.com/careers) | Madison, WI | Interviews and pair programming on personal projects
+- [Benshi.ai](https://www.benshi.ai) | Barcelona, Spain | Initial 15-30 mins interview with HR, followed by 15-30 mins chat with hiring manager to clear out basic concepts, then followed by take-home task for 5 days
 - [Betterment](https://www.betterment.com/careers) | New York, NY | Phone interview followed by on-site pair programming to simulate a Betterment feature build.
 - [BetterPT](https://www.betterpt.com) | New York, NY | Initial phone interview, project using our tech stack, on-site code review/pair programming and "meet the team".
 - [bevelop](https://bevelop.de) | Aschaffenburg, BY / Remote | Initial introductory call, on-sight or remote trial day with project
@@ -500,6 +501,7 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Librato](https://www.librato.com/jobs) | San Francisco, CA; Boston, MA; Austin, TX; Vancouver, Canada; Krakow, Poland | Take home coding project, conversational technical interviews on-site
 - [Lightning Jar](http://lightningjar.agency) | San Antonio, Tx | Remote pairing session, Initial interview,discussion on-site
 - [Lightricks](http://www.lightricks.com) | Jerusalem, Israel | Initial interview, Take home project, discussion on-site
+- [LinkAja](https://www.linkaja.id) | Jakarta, Indonesia | Quick introductory chat, followed by take home project for 7 days
 - [LinkResearchTools](http://jobs.linkresearchtools.com/job-offers) | Vienna, Austria | Skype interview, mini take-home exercise, discussion on-site / personal interview
 - [Linx Systems](https://www.linxsystems.com) | Bloomington, IL / Remote | 5-10 minute take home project; followed by a non-technical interview; finish up with a second take home project or paired with a developer for a 30-60 minute session.
 - [lise GmbH](https://www.lise.de/karriere/stellenboerse) | Cologne, Germany | Phone interview, followed by getting to know each other in person, a short presentation about any topic you are interested in, pair programming on a real world problem
@@ -668,7 +670,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Pillar Technology](http://pillartechnology.com/careers) | Ann Arbor, MI; Columbus, OH; Des Moines, IA | Phone, take home exercise, in-person pairing session and site visit.
 - [Pilot](https://pilot.co/become-a-partner) | Remote | Two calls. Introduction one (30m) + verification of communication skills and remote work experience (15m)
 - [Pismo](https://pismo.io/pt/) | Remote; Bristol, UK; Austin, TX; Singapore, Singapore | Initial and quick screening with recruiters from hr department, remote general technical discussion with tech lead and team members, take home assessment (choose between Java and/or Golang), remote pair programming.
-- [Pivotal](https://pivotal.io/careers) | San Francisco, CA; Los Angeles, CA; New York, NY; Boston, MA; Denver, CO; Atlanta, GA; Chicago, IL; Seattle, WA; Washington, D.C.; London, UK; Sydney, Australia; Toronto, Canada; Paris, France; Berlin, Germany; Tokyo, Japan | Initial remote technical screen featuring pair programming; on-site pair programming interview, generally a full day pairing on production code using test-driven development.
 - [Pixium Digital](https://pixiumdigital.com) | Singapore, Singapore | Remote or on-site interview with few generic / technical questions as well as portfolio review + discussion.
 - [Platform.sh](https://platform.sh) | Remote | Remote Interview, Wide-Ranging discussions on many diverse subjects. Remote interviews with team members.
 - [Platform45](https://platform45.com) | Johannesburg, South Africa; Cape Town, South Africa | On-site interview, take-home project and culture fit day
